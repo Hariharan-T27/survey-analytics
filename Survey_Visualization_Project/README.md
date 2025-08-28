@@ -75,7 +75,7 @@ Survey_Visualization_Project/
 ## 🔹 Installation
 **1.** Clone this repository:
 ```bash
-git clone https://github.com/your-username/Survey_Visualization_Project.git
+git clone https://github.com/Hariharan-T27/survey-analytics.git
 cd Survey_Visualization_Project
 ```
 
